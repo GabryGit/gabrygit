@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 My name is Gabriele, and I'm a courious mechanical engineer interested in data analysis! 😄
+- 🔭 Check-out my data analysis projects [[here]](https://github.com/GabryGit?tab=repositories)
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/gabriele-casarin06/) or send me an e-mail at gabriele.casarin.2@gmail.com
 
 
 
