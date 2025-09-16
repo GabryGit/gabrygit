@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Gabriele, and I'm a courious mechanical engineer interested in data analysis! 😄
+
+
+
 <!--
 **GabryGit/gabrygit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
